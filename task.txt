@@ -1,0 +1,18 @@
+Current progress: 13/13 100%
+
+What to add: 
+
+1. Add a loop to allow multiple guesses - (DONE)
+2. Keep track of the number of attempts - (DONE)
+3. Provide feedback on how close the guess is to the secret number - (DONE)
+4. Random number generator - (DONE)
+5. Input validation (int only) - (DONE)
+6. Add difficulty system - (DONE)
+7. Make a welcome function - (DONE)
+8. Build a RandomNumber generator function - (DONE)
+9. Turn into GUI - (In python file)
+10. Make a Game History Tracker - (DONE)
+11. Connect "rules.txt" to "main.cpp" = (DONE)
+12. Make a restart button - (DONE)
+13. Make a player ID generator - (DONE)
+14. Make the difficulty maxNum relevant to Game difficulty - (DONE)

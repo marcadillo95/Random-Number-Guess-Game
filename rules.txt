@@ -1,0 +1,29 @@
+=====================================================
+                 GUESS THE NUMBER
+=====================================================
+1.  Pick a difficulty level.
+2.  Guess the secret number based on the range.
+3.  Use the High/Low hints to zero in on the answer.
+4.  Try to get the lowest number of attempts possible!
+=====================================================
+*****************************************************
+=====================================================
+                    TIPS
+=====================================================
+1.  Keep in mind you have unlimited attempts to guess 
+    the number
+2.  It's up to you to challenge yourself!
+=====================================================
+*****************************************************
+=====================================================
+                 DISCLAMER
+=====================================================
+1.  DO NOT TYPE ENTER ANY LETTERS OR WORDS! 
+2.  ONLY ENTER NUMBERS, AS ANYTHING OTHER THAN A WHOLE 
+    NUMBER MAY BREAK THE GAME AND POTENTIALLY FRY YOUR 
+    WHOLE MOTHERBOARD. FUCK AROUND AND FIND OUT!
+=====================================================
+*****************************************************
+=====================================================
+                ENJOY THE GAME
+=====================================================
