@@ -12,6 +12,7 @@ using namespace std;
 int Diff(){
     int maxNum = 20;
     int difficulty = 0;
+    
 
     while (true){
         cout << "Choose your difficulty:";
